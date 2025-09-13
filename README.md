@@ -289,7 +289,7 @@ mysqldump -u kp_user -p knowledge_pay > /backup/knowledge_pay_$DATE.sql
 
 ## 🔄 更新日志
 
-### v1.0.0 (2024-01-01)
+### v1.0.0 (2025-09-013)
 - 初始版本发布
 - 完整的用户管理系统
 - 多种支付方式支持
@@ -304,3 +304,4 @@ mysqldump -u kp_user -p knowledge_pay > /backup/knowledge_pay_$DATE.sql
 3. 设置防火墙规则
 4. 定期备份数据
 5. 监控系统性能
+
